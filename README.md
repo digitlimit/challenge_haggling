@@ -12,7 +12,7 @@ See also the [Russian version](https://habr.com/company/hola/blog/414723/) of th
 
 ## Rules
 
-* Submit your solution to our [form](https://hola.org/challenges/haggling). Do not send solutions by e-mail!
+* Submit your solution to our form (contact frankemeks77@yahoo.com). Do not send solutions by e-mail!
 * Submission deadline: **July 20, 2018**, 23:59:59 UTC.
 * Preliminary results will be published on **July 27, 2018**, and final results on **August 3, 2018**.
 * You may submit more than once. Only your latest submission, as long as it's still before the deadline, will be evaluated.
