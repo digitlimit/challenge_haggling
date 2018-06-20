@@ -111,6 +111,6 @@ while true; do node haggle.js --id me@example.com:1234abcd myscript.js wss://hol
 
 ### Submitting your solution
 
-Contact frankemeks77@yahoo.com for more details on how to submit or chat me up on facebook where you gound this 
+Contact frankemeks77@yahoo.com for more details on how to submit or chat me up on facebook where you found this 
 
 **Good luck to all the participants!**
